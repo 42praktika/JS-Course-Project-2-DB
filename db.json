@@ -1,0 +1,62 @@
+{
+  "products": [
+    {
+      "id": 0,
+      "name": "Зверобуквы",
+      "title": "Настольная игра «Зверобуквы»",
+      "imageUri": "https://bandaumnikov.ru/images/product/1879/preview-zverobukvy.png?v=1571406073",
+      "description": "Дети быстро знакомятся с буквами и учатся складывать их в слова. А начать играть можно даже не зная букв!",
+      "fullDescription": "Зверобуквы помогают детям легко запомнить алфавит без утомительных занятий и необходимости что-то целенаправленно учить. После этого можно перейти к более сложным и увлекательным правилам, в которых нужно складывать буквы в слова наперегонки с соперниками!",
+      "isNew": true,
+      "cost": 990,
+      "numberOfPlayers": "2-5",
+      "size": "173×116×43",
+      "weight": 230,
+      "ages": "4+",
+      "slides": [
+        "https://bandaumnikov.ru/images/product/1879/large-zverobukvy.png?v=1571406073",
+        "https://bandaumnikov.ru/images/product/1879/large-zverobukvy-2.png?v=1509018781",
+        "https://bandaumnikov.ru/images/product/1879/large-zverobukvy-3.png?v=1509018782",
+        "https://bandaumnikov.ru/images/product/1879/large-zverobukvy-4.jpg?v=1509018783"
+      ]
+    },
+    {
+      "id": 1,
+      "name": "Турбосчёт",
+      "title": "Настольная игра «Турбосчёт»",
+      "imageUri": "https://bandaumnikov.ru/images/product/773/preview-turboschet.png?v=1571406016",
+      "description": "Игра прокачивает навык беглого устного счёта, учит складывать и сравнивать. Считаем быстрее ветра!",
+      "fullDescription": "«Турбосчёт» — увлекательный способ развить арифметические способности: скоростной устный счёт, сравнение и сложение. Освоив эти знания в раннем возрасте, ребёнок без труда справляется с более сложными предметами в дальнейшем. Взрослые тоже играют в «Турбосчёт» с нескрываемым азартом, так что присоединяйтесь!",
+      "isNew": false,
+      "cost": 690,
+      "numberOfPlayers": "2-5",
+      "size": "116×116×43",
+      "weight": 180,
+      "ages": "6+",
+      "slides": [
+        "https://bandaumnikov.ru/images/product/773/large-turboschet.png?v=1571406016",
+        "https://bandaumnikov.ru/images/product/773/large-turboschet_3.jpg?v=1574864221",
+        "https://bandaumnikov.ru/images/product/773/large-turboschet_5.jpg?v=1574864246"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "ИХНИЙ ИХНИЕВИЧ",
+      "title": "Настольная игра «Турбосчёт»",
+      "imageUri": "https://bandaumnikov.ru/images/product/9102/preview-ihniy_ihniyevich.png?v=1571405065",
+      "description": "Уникальная весёлая настолка, которая помогает понять и запомнить термины из русского языка с 1 по 6 класс.",
+      "fullDescription": "Русский язык учить тяжело. Это неудивительно: столько разных правил, скучные учебники! «Ихний Ихниевич» — это уникальная настольная игра, которая помогает понять и запомнить самые важные термины из курса русского языка с 1 по 6 классы. Ведь играть намного интереснее, чем читать очередной параграф :)",
+      "isNew": false,
+      "cost": 1590,
+      "numberOfPlayers": "2-5",
+      "size": "228×228×42",
+      "weight": 420,
+      "ages": "7+",
+      "slides": [
+        "https://bandaumnikov.ru/images/product/9102/large-ihniy_ihniyevich.png?v=1571405065",
+        "https://bandaumnikov.ru/images/product/9102/large-%D0%98%D0%98_%D0%BA%D0%B0%D1%80%D1%82%D1%8B1.png?v=1545227347",
+        "https://bandaumnikov.ru/images/product/9102/large-ihniy-ihniyevich1.png?v=1591189046"
+      ]
+    }
+  ]
+}
